@@ -1,0 +1,8 @@
+name: bb8
+type: module
+description: Create configuration files for migration
+core: 8.x
+package: Custom
+dependencies:
+  - migrate_drupal
+  - migrate_plus
